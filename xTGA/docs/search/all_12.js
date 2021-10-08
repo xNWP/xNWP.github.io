@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['save_5fdate_5fday',['SAVE_DATE_DAY',['../structxtga_1_1structs_1_1_extension_area.html#aa06ffd2296d3f3334904d5448c212571',1,'xtga::structs::ExtensionArea::SAVE_DATE_DAY()'],['../structxtga___extension_area__t.html#a144059fc96e3b8c9843ed16c86948034',1,'xtga_ExtensionArea_t::SAVE_DATE_DAY()']]],
+  ['save_5fdate_5fhour',['SAVE_DATE_HOUR',['../structxtga_1_1structs_1_1_extension_area.html#a55539a291cc05d4024292d2bb06002bb',1,'xtga::structs::ExtensionArea::SAVE_DATE_HOUR()'],['../structxtga___extension_area__t.html#a0b33244ae3ac17649718f9380a042984',1,'xtga_ExtensionArea_t::SAVE_DATE_HOUR()']]],
+  ['save_5fdate_5fminute',['SAVE_DATE_MINUTE',['../structxtga_1_1structs_1_1_extension_area.html#a7d69a6a0729e39f8abdcf4104179b17f',1,'xtga::structs::ExtensionArea::SAVE_DATE_MINUTE()'],['../structxtga___extension_area__t.html#a862a0f4793ba4018dbaa4cefff2e32be',1,'xtga_ExtensionArea_t::SAVE_DATE_MINUTE()']]],
+  ['save_5fdate_5fmonth',['SAVE_DATE_MONTH',['../structxtga_1_1structs_1_1_extension_area.html#ac3f47a7913e188e8d32d328e8a798590',1,'xtga::structs::ExtensionArea::SAVE_DATE_MONTH()'],['../structxtga___extension_area__t.html#a8e1fc22310fc6b44eda14184fd338ee8',1,'xtga_ExtensionArea_t::SAVE_DATE_MONTH()']]],
+  ['save_5fdate_5fsecond',['SAVE_DATE_SECOND',['../structxtga_1_1structs_1_1_extension_area.html#a547182c0a1137210ca44d8c78b8fa5a1',1,'xtga::structs::ExtensionArea::SAVE_DATE_SECOND()'],['../structxtga___extension_area__t.html#aabb1fadd2cb478dbe73f7ca05409bfeb',1,'xtga_ExtensionArea_t::SAVE_DATE_SECOND()']]],
+  ['save_5fdate_5fyear',['SAVE_DATE_YEAR',['../structxtga_1_1structs_1_1_extension_area.html#ae7d32ccc52bc71cb9d5f08f75782135e',1,'xtga::structs::ExtensionArea::SAVE_DATE_YEAR()'],['../structxtga___extension_area__t.html#aea53d3d27fc7bc0cf8c1db141926b09b',1,'xtga_ExtensionArea_t::SAVE_DATE_YEAR()']]],
+  ['savefile',['SaveFile',['../classxtga_1_1_t_g_a_file.html#a3777e6de13cc6bb04e32d01c2e50963b',1,'xtga::TGAFile']]],
+  ['scaleimagebicubic',['ScaleImageBicubic',['../namespacextga_1_1codecs.html#a973300a33f782b5c3b692e52e6c2a8a7',1,'xtga::codecs']]],
+  ['scan_5fline_5foffset',['SCAN_LINE_OFFSET',['../structxtga_1_1structs_1_1_extension_area.html#a8cbfd9ac86ee805710281eb4c8f546ee',1,'xtga::structs::ExtensionArea::SCAN_LINE_OFFSET()'],['../structxtga___extension_area__t.html#a368fd362e9cc9ab92c3bc937e88934d3',1,'xtga_ExtensionArea_t::SCAN_LINE_OFFSET()']]],
+  ['setimageid',['SetImageID',['../classxtga_1_1_t_g_a_file.html#a2ca087c6c665bf6ad32c26b622dd4992',1,'xtga::TGAFile']]],
+  ['signature',['SIGNATURE',['../structxtga_1_1structs_1_1_footer.html#a7486d6251e7750d8f641ed9c72b1d8d3',1,'xtga::structs::Footer']]],
+  ['size',['size',['../classxtga_1_1_managed_array.html#a2bd175a923906c875db815a69fb3bf16',1,'xtga::ManagedArray']]],
+  ['software_5fid',['SOFTWARE_ID',['../structxtga_1_1structs_1_1_extension_area.html#a398c3d6eacc46c709f8d6c3bc133ef31',1,'xtga::structs::ExtensionArea::SOFTWARE_ID()'],['../structxtga___extension_area__t.html#af706f4806bacf41019ec61c4f3f9d667',1,'xtga_ExtensionArea_t::SOFTWARE_ID()']]],
+  ['software_5fletter',['SOFTWARE_LETTER',['../structxtga_1_1structs_1_1_extension_area.html#a464a2b35244240798f9ce9bd713dda82',1,'xtga::structs::ExtensionArea::SOFTWARE_LETTER()'],['../structxtga___extension_area__t.html#a20d4fb09c805efbde6a376b9935abdf0',1,'xtga_ExtensionArea_t::SOFTWARE_LETTER()']]],
+  ['software_5fversion',['SOFTWARE_VERSION',['../structxtga_1_1structs_1_1_extension_area.html#a6b2d9ee1987e66ab7489b0cc00e35e5f',1,'xtga::structs::ExtensionArea::SOFTWARE_VERSION()'],['../structxtga___extension_area__t.html#aa52e72fd83d28fcff7b929c6f16c861b',1,'xtga_ExtensionArea_t::SOFTWARE_VERSION()']]],
+  ['straight',['STRAIGHT',['../namespacextga_1_1flags.html#a6b56636f797585321c7817bdccd09b4fa8c5e50fab3748e9c53a6863b3dce1401',1,'xtga::flags']]],
+  ['stringify',['STRINGIFY',['../_c_make_c_compiler_id_8c.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCXXCompilerId.cpp']]],
+  ['stringify_5fhelper',['STRINGIFY_HELPER',['../_c_make_c_compiler_id_8c.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCXXCompilerId.cpp']]],
+  ['structures_2eh',['structures.h',['../structures_8h.html',1,'']]]
+];

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['bgr16',['BGR16',['../structxtga_1_1_parameters.html#ac09e4cb0e96728616cf36a323312541e',1,'xtga::Parameters']]],
+  ['bgr16_5fcolormapped',['BGR16_COLORMAPPED',['../structxtga_1_1_parameters.html#ae6ab8ddecb29d18609a8ab8c7b94914d',1,'xtga::Parameters']]],
+  ['bgr16_5frle',['BGR16_RLE',['../structxtga_1_1_parameters.html#a507db0c010d5ec932bb84822cd974fff',1,'xtga::Parameters']]],
+  ['bgr16_5frle_5fcolormapped',['BGR16_RLE_COLORMAPPED',['../structxtga_1_1_parameters.html#a8925c2035c54273114af7e6ec9fac19f',1,'xtga::Parameters']]],
+  ['bgr24',['BGR24',['../structxtga_1_1_parameters.html#a129270605c5e335621da17ae183fa4ac',1,'xtga::Parameters']]],
+  ['bgr24_5fcolormapped',['BGR24_COLORMAPPED',['../structxtga_1_1_parameters.html#a8e5309d4fecf57582663a28780d8e1ed',1,'xtga::Parameters']]],
+  ['bgr24_5frle',['BGR24_RLE',['../structxtga_1_1_parameters.html#a6bd096a38f0f2715cf067333555c402e',1,'xtga::Parameters']]],
+  ['bgr24_5frle_5fcolormapped',['BGR24_RLE_COLORMAPPED',['../structxtga_1_1_parameters.html#a2680d3ad3bf66072f1401881aa757623',1,'xtga::Parameters']]],
+  ['bgr_5fto_5frgba',['BGR_To_RGBA',['../namespacextga_1_1codecs.html#a8a4444bca3508a9bb4b1e7825d266494',1,'xtga::codecs']]],
+  ['bgra16_5fto_5frgba',['BGRA16_To_RGBA',['../namespacextga_1_1codecs.html#ac904135816e21361c515c27bf6c1109d',1,'xtga::codecs']]],
+  ['bgra32_5fcolormapped_5fpremultiplied_5falpha',['BGRA32_COLORMAPPED_PREMULTIPLIED_ALPHA',['../structxtga_1_1_parameters.html#a27253c14b1dd2873dca65b1dcbd8c6b1',1,'xtga::Parameters']]],
+  ['bgra32_5fcolormapped_5fstraight_5falpha',['BGRA32_COLORMAPPED_STRAIGHT_ALPHA',['../structxtga_1_1_parameters.html#a9ecf9c03d3e3be7cc4d3c637f1f3e927',1,'xtga::Parameters']]],
+  ['bgra32_5fpremultiplied_5falpha',['BGRA32_PREMULTIPLIED_ALPHA',['../structxtga_1_1_parameters.html#a459df806b623bc6b3da09c0444e69f61',1,'xtga::Parameters']]],
+  ['bgra32_5frle_5fcolormapped_5fpremultiplied_5falpha',['BGRA32_RLE_COLORMAPPED_PREMULTIPLIED_ALPHA',['../structxtga_1_1_parameters.html#a386afdc119eb1c17bd98c075c1182693',1,'xtga::Parameters']]],
+  ['bgra32_5frle_5fcolormapped_5fstraight_5falpha',['BGRA32_RLE_COLORMAPPED_STRAIGHT_ALPHA',['../structxtga_1_1_parameters.html#ae1060b82432c122b22bb78cf88ed54ad',1,'xtga::Parameters']]],
+  ['bgra32_5frle_5fpremultiplied_5falpha',['BGRA32_RLE_PREMULTIPLIED_ALPHA',['../structxtga_1_1_parameters.html#aaa945258053a13fbf00058bf81f853e5',1,'xtga::Parameters']]],
+  ['bgra32_5frle_5fstraight_5falpha',['BGRA32_RLE_STRAIGHT_ALPHA',['../structxtga_1_1_parameters.html#aea13377fa56d3e09e5be18efc8583490',1,'xtga::Parameters']]],
+  ['bgra32_5fstraight_5falpha',['BGRA32_STRAIGHT_ALPHA',['../structxtga_1_1_parameters.html#aab911aad2cadaaef1fc2c16ee90e5cf7',1,'xtga::Parameters']]],
+  ['bgra_5fto_5frgba',['BGRA_To_RGBA',['../namespacextga_1_1codecs.html#ab8507a921cba7c93c3a4903c69d0e265',1,'xtga::codecs']]]
+];

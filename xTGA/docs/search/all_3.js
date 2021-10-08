@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['c_5fdialect',['C_DIALECT',['../_c_make_c_compiler_id_8c.html#a07f8e5783674099cd7f5110e22a78cdb',1,'CMakeCCompilerId.c']]],
+  ['c_5flinkage_2ec',['c_linkage.c',['../c__linkage_8c.html',1,'']]],
+  ['c_5floading_2ec',['c_loading.c',['../c__loading_8c.html',1,'']]],
+  ['cmake_5fapi_2eh',['cmake_api.h',['../cmake__api_8h.html',1,'']]],
+  ['cmake_5ffile_2eh',['cmake_file.h',['../cmake__file_8h.html',1,'']]],
+  ['cmakeccompilerid_2ec',['CMakeCCompilerId.c',['../_c_make_c_compiler_id_8c.html',1,'']]],
+  ['cmakecxxcompilerid_2ecpp',['CMakeCXXCompilerId.cpp',['../_c_make_c_x_x_compiler_id_8cpp.html',1,'']]],
+  ['codecs_2ecpp',['codecs.cpp',['../codecs_8cpp.html',1,'']]],
+  ['codecs_2eh',['codecs.h',['../codecs_8h.html',1,'']]],
+  ['color_5fcorrection_5ftable',['COLOR_CORRECTION_TABLE',['../structxtga_1_1structs_1_1_extension_area.html#a564daa36a99511a224c603d32c6ec59c',1,'xtga::structs::ExtensionArea::COLOR_CORRECTION_TABLE()'],['../structxtga___extension_area__t.html#a904812e50e93e0952b97b37ede806f41',1,'xtga_ExtensionArea_t::COLOR_CORRECTION_TABLE()']]],
+  ['color_5fmap_5fbits_5fper_5fentry',['COLOR_MAP_BITS_PER_ENTRY',['../structxtga_1_1structs_1_1_header.html#ad3a2f7b1c15d38e2af0140147d719d96',1,'xtga::structs::Header::COLOR_MAP_BITS_PER_ENTRY()'],['../structxtga___header__t.html#a4ceecefbe8d5d1710de0831b00b2ef1d',1,'xtga_Header_t::COLOR_MAP_BITS_PER_ENTRY()']]],
+  ['color_5fmap_5ffirst_5fentry_5findex',['COLOR_MAP_FIRST_ENTRY_INDEX',['../structxtga_1_1structs_1_1_header.html#aca6eef2bf7d8b854a96d60a0a36c12cb',1,'xtga::structs::Header::COLOR_MAP_FIRST_ENTRY_INDEX()'],['../structxtga___header__t.html#a98405960091a0a38c235e36f3c740656',1,'xtga_Header_t::COLOR_MAP_FIRST_ENTRY_INDEX()']]],
+  ['color_5fmap_5flength',['COLOR_MAP_LENGTH',['../structxtga_1_1structs_1_1_header.html#adbabc98c1c72b31d9d75c543daa69f50',1,'xtga::structs::Header::COLOR_MAP_LENGTH()'],['../structxtga___header__t.html#a0fe05d6d53f783fae87d6ad3588e81c3',1,'xtga_Header_t::COLOR_MAP_LENGTH()']]],
+  ['color_5fmap_5ftype',['COLOR_MAP_TYPE',['../structxtga_1_1structs_1_1_header.html#aa52874270a3545258f459da5e8447af0',1,'xtga::structs::Header::COLOR_MAP_TYPE()'],['../structxtga___header__t.html#abd36288bdce1cb15c0b516813407dd9a',1,'xtga_Header_t::COLOR_MAP_TYPE()']]],
+  ['color_5fmapped',['COLOR_MAPPED',['../namespacextga_1_1flags.html#a6f54f6cfcfe3c050e8235921e8aba6b9ae633beb0d3c54a8135bde0a9f6d996d1',1,'xtga::flags']]],
+  ['color_5fmapped_5frle',['COLOR_MAPPED_RLE',['../namespacextga_1_1flags.html#a6f54f6cfcfe3c050e8235921e8aba6b9a0d6cbb1a0fd4d710e5b852969666605a',1,'xtga::flags']]],
+  ['colorcorrectionentry',['ColorCorrectionEntry',['../structxtga_1_1structs_1_1_color_correction_entry.html',1,'xtga::structs']]],
+  ['colormap_5ftoo_5flarge',['COLORMAP_TOO_LARGE',['../namespacextga.html#a0a19785d1acec3c1ac19be03285f80d1a6aeaabf7c3cd58181c2105dd07702f6f',1,'xtga']]],
+  ['compiler_5fid',['COMPILER_ID',['../_c_make_c_compiler_id_8c.html#a81dee0709ded976b2e0319239f72d174',1,'COMPILER_ID():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a81dee0709ded976b2e0319239f72d174',1,'COMPILER_ID():&#160;CMakeCXXCompilerId.cpp']]],
+  ['compresswithrle',['CompressWithRLE',['../classxtga_1_1_t_g_a_file.html#ab1601521fef12c5e80cd12bb96b0d929',1,'xtga::TGAFile']]],
+  ['container_5ffull',['CONTAINER_FULL',['../namespacextga.html#a0a19785d1acec3c1ac19be03285f80d1a53037853bc27c26185fc5676ee1ccf62',1,'xtga']]],
+  ['convert_5fbottomleft_5fto_5ftopleft',['Convert_BottomLeft_To_TopLeft',['../namespacextga_1_1codecs.html#a7788ab845a5c78d5d6cbc5e9f0141972',1,'xtga::codecs']]],
+  ['convert_5fbottomright_5fto_5ftopleft',['Convert_BottomRight_To_TopLeft',['../namespacextga_1_1codecs.html#a6f1b003a0ed255a76b8a1f1858463006',1,'xtga::codecs']]],
+  ['convert_5ftopright_5fto_5ftopleft',['Convert_TopRight_To_TopLeft',['../namespacextga_1_1codecs.html#aa4427175636011abe896f7233447676c',1,'xtga::codecs']]],
+  ['cxx_5fstd',['CXX_STD',['../_c_make_c_x_x_compiler_id_8cpp.html#a34cc889e576a1ae6c84ae9e0a851ba21',1,'CMakeCXXCompilerId.cpp']]]
+];

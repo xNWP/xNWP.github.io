@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['tag',['TAG',['../structxtga_1_1structs_1_1_developer_directory_entry.html#a152cee51c6f79c0b31208d733d97813e',1,'xtga::structs::DeveloperDirectoryEntry']]],
+  ['test_5f16bit_5fintegrity',['test_16bit_integrity',['../c__loading_8c.html#ac9cbc35040d443005d31c421c3ee7374',1,'test_16bit_integrity():&#160;c_loading.c'],['../loading_8cpp.html#ac9cbc35040d443005d31c421c3ee7374',1,'test_16bit_integrity():&#160;loading.cpp']]],
+  ['test_5f24bit_5fintegrity',['test_24bit_integrity',['../c__loading_8c.html#a9f6c08ab17fdfead941bcfb540b0abdf',1,'test_24bit_integrity():&#160;c_loading.c'],['../loading_8cpp.html#a9f6c08ab17fdfead941bcfb540b0abdf',1,'test_24bit_integrity():&#160;loading.cpp']]],
+  ['test_5f32bit_5fintegrity',['test_32bit_integrity',['../c__loading_8c.html#a42a97ece181c072a8ca897f84ad326f7',1,'test_32bit_integrity():&#160;c_loading.c'],['../loading_8cpp.html#a42a97ece181c072a8ca897f84ad326f7',1,'test_32bit_integrity():&#160;loading.cpp']]],
+  ['test_5f8bit_5fintegrity',['test_8bit_integrity',['../c__loading_8c.html#a765b022d42af1918f232d7b9510ca2dd',1,'test_8bit_integrity():&#160;c_loading.c'],['../loading_8cpp.html#a765b022d42af1918f232d7b9510ca2dd',1,'test_8bit_integrity():&#160;loading.cpp']]],
+  ['test_5fuchar_5fsize',['test_uchar_size',['../types_8cpp.html#a4dcbf0d105c78e3d87beb5fd350c1415',1,'types.cpp']]],
+  ['test_5fuint16_5fsize',['test_uint16_size',['../types_8cpp.html#a241437d07e15d4cee8df402cd6b968f3',1,'types.cpp']]],
+  ['test_5fuint32_5fsize',['test_uint32_size',['../types_8cpp.html#a6124e3eb0a4f2bed62cfd3016bd8c8b4',1,'types.cpp']]],
+  ['test_5fuint64_5fsize',['test_uint64_size',['../types_8cpp.html#abbde0b3ef3770d05387aebb6a1b5435e',1,'types.cpp']]],
+  ['tga2file',['TGA2File',['../structxtga_1_1_parameters.html#a96b67cf0fa5b633dcc6bdfdfbc3f8ff8',1,'xtga::Parameters']]],
+  ['tga2sig',['TGA2SIG',['../tga__file_8cpp.html#aaf82de61ae4c878f9b9aaf36808a7749',1,'tga_file.cpp']]],
+  ['tga_5ffile_2ecpp',['tga_file.cpp',['../tga__file_8cpp.html',1,'']]],
+  ['tga_5ffile_2eh',['tga_file.h',['../tga__file_8h.html',1,'']]],
+  ['tgafile',['TGAFile',['../classxtga_1_1_t_g_a_file.html',1,'xtga']]],
+  ['thumbnail_5foffset',['THUMBNAIL_OFFSET',['../structxtga_1_1structs_1_1_extension_area.html#a850de8ceefb1a92e877c878af2b621b0',1,'xtga::structs::ExtensionArea::THUMBNAIL_OFFSET()'],['../structxtga___extension_area__t.html#aeb51ad73b2fd739bc93926a533254d53',1,'xtga_ExtensionArea_t::THUMBNAIL_OFFSET()']]],
+  ['top_5fleft',['TOP_LEFT',['../namespacextga_1_1flags.html#a32ff9b9c697bad44f7c77b5d8f525a7ca747385047b85ae751f83adb36435a3c1',1,'xtga::flags']]],
+  ['top_5fright',['TOP_RIGHT',['../namespacextga_1_1flags.html#a32ff9b9c697bad44f7c77b5d8f525a7ca901d87dedda8db733f5e6d34c4eb5fe0',1,'xtga::flags']]],
+  ['true_5fcolor',['TRUE_COLOR',['../namespacextga_1_1flags.html#a6f54f6cfcfe3c050e8235921e8aba6b9ad0bc33797421f13209b7d206ec8580d5',1,'xtga::flags']]],
+  ['true_5fcolor_5frle',['TRUE_COLOR_RLE',['../namespacextga_1_1flags.html#a6f54f6cfcfe3c050e8235921e8aba6b9a8852ddb3ac105cf6f61b83128a4da47f',1,'xtga::flags']]],
+  ['types_2ecpp',['types.cpp',['../types_8cpp.html',1,'']]],
+  ['types_2eh',['types.h',['../types_8h.html',1,'']]]
+];
