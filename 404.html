@@ -5,10 +5,40 @@
     src="https://code.jquery.com/jquery-3.6.0.min.js"
     integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     crossorigin="anonymous"></script>
-</head>
-<body>
-    <p id="RedirectText">Looking for page/file...</p>
+    <style>
+        p {
+            font-family: system-ui, sans-serif;
+            font-size: 8mm;
+            margin: 0;
+        }
 
+        #txtContainer {
+            background-color: #f0ede8;
+            position: absolute;
+            border-radius: 3mm;
+            top: 50%;
+            left: 50%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%);
+        }
+
+        #innerContainer {
+            margin: 8mm;
+            display: flex;
+            flex-direction: column;
+            align-self: center;
+            align-items: center;
+            justify-self: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body style="background-color:#082030">
+    <div id="txtContainer">
+        <div id="innerContainer">
+            <p id="RedirectText">Looking for page/file...</p>
+        </div>
+    </div>
     <script src="/redirector.js"></script>
 </body>
 

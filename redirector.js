@@ -13,10 +13,8 @@ $.getJSON("/redirector_mappings.json", function(data) {
         $("#RedirectText").html("Couldn't find page/file");
     }
     else {
-        $("#RedirectText").html(
-        "Your new file is at <a href=\"" +
-        redirectPath + "\">" + redirectPath +
-        "</a>");
+        $("#RedirectText").html("Your new file is at:");
+        $("#innerContainer").append("<p><a href=\"" + redirectPath + "\">"+ redirectPath + "</a></p>");
         location.replace(redirectPath);
     }
 });
