@@ -1,5 +1,5 @@
 $.getJSON("/redirector_mappings.json", function(data) {
-    var urlPath = location.pathname;
+    var urlPath = decodeURI(location.pathname);
     var redirectPath = null;
 
 	$.each(data, function(key, val) {
@@ -14,7 +14,7 @@ $.getJSON("/redirector_mappings.json", function(data) {
     }
     else {
         $("#RedirectText").html("Your new file is at:");
-        $("#innerContainer").append("<p><a href=\"" + redirectPath + "\">"+ redirectPath + "</a></p>");
+        $("#innerContainer").append("<p><a href=\"" + redirectPath + "\">" + redirectPath + "</a></p>");
         location.replace(redirectPath);
     }
 });
